@@ -2,6 +2,7 @@
  Use ttf2lff tool to convert NotoSansTC-Thin.ttf to notosantc-thin.lff
 
 # Install font
+ Unzip notosanstc-thin.zip
  Copy notosantc-thin.lff to C:\Program Files (x86)\LibreCAD\resources\fonts
 
 # Tip
